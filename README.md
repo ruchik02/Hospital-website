@@ -1,5 +1,6 @@
 # Hospital-website
 Hospital template website using HTML,CSS SASS  AND JavaScript
+always use sass compiler to run 
 
 ![a](https://user-images.githubusercontent.com/83516020/159288870-f27205cf-8404-4987-beb3-6c5577e32d7d.jpg)
 ![b](https://user-images.githubusercontent.com/83516020/159288902-e6445ac5-791d-4b28-a262-4d001e665d74.jpg)
